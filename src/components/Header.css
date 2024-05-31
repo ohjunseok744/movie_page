@@ -1,0 +1,9 @@
+header {
+  color: #373b69; /* 텍스트 색상 */
+  font-size: 24px; /* 글꼴 크기 */
+  font-weight: bold; /* 글꼴 굵기 */
+  text-align: center; /* 가운데 정렬 */
+  text-transform: uppercase; /* 대문자로 변환 */
+  margin-bottom: 20px; /* 하단 마진 */
+  
+}

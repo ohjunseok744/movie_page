@@ -1,0 +1,12 @@
+.movie-container img {
+  max-width: 100%;
+}
+.movie-container {
+  width: 250px;
+  margin: 16px;
+  background-color: #373b69;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  
+}
